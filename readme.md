@@ -42,8 +42,8 @@ Test your Tasks in your DAG
 airflow test dag_id task_id execution_date
 ```
 
-#Dag Scheduling
-#backfilling and catchup
+# Dag Scheduling
+## backfilling and catchup
 
 start date 
 schedule interval
